@@ -1,7 +1,7 @@
-import "./App.css";
-import Sidebar from "./Sidebar/Sidebar";
-import Feed from "./Feed/Feed";
-import Widgets from "./Widgets/Widgets";
+import "./App.scss";
+import Sidebar from "Sidebar/Sidebar";
+import Feed from "Feed/Feed";
+import Widgets from "Widgets/Widgets";
 
 const App = () => {
   return (

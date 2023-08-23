@@ -1,5 +1,5 @@
 import React from "react";
-import "./widgets.css";
+import "./widgets.scss";
 import {
   TwitterTimelineEmbed,
   TwitterShareButton,
